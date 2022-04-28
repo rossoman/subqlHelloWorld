@@ -19,7 +19,7 @@
   "author": "Ian He & Jay Ji",
   "license": "MIT",
   "devDependencies": {
-    "@polkadot/api": "latest",
+    "@polkadot/api": "^7",
     "@subql/types": "latest",
     "typescript": "latest",
     "@subql/cli": "latest"
