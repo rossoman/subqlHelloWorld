@@ -1,5 +1,5 @@
 {
-  "name": "subqlHelloWorld",
+  "name": "hello-world",
   "version": "1.0.0",
   "description": "This project can be use as a starting point for developing your SubQuery project",
   "main": "dist/index.js",
@@ -16,7 +16,7 @@
     "schema.graphql",
     "project.yaml"
   ],
-  "author": "Rossoman",
+  "author": "Ian He & Jay Ji",
   "license": "MIT",
   "devDependencies": {
     "@polkadot/api": "^7",
