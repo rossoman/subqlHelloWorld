@@ -1,8 +1,8 @@
 specVersion: 0.2.0
-name: SubQuery Dictionary - Polkadot
+name: SubQuery - Polkadot
 version: 1.0.0
-description: "A SubQuery Dictionary Project that provides increased indexing speed to all projects"
-repository: https://github.com/subquery/subql-dictionary
+description: ""
+repository: https://github.com/rossoman/subqlHelloWorld.git
 schema:
   file: ./schema.graphql
 network:
